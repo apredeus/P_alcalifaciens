@@ -1,0 +1,5 @@
+original locus id	new locus id	type	topology	name
+chrom	chrom	chromosome	circular	chrom
+p128kb	p128kb	plasmid	circular	p128kb
+p41kb	p41kb	plasmid	circular	p41kb
+p4kb	p4kb	plasmid	circular	p4kb
